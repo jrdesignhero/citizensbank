@@ -116,7 +116,7 @@ section.dcom-section-title-global__section {
 a.hijacked-product-a:visited {
     color: #fff;
 }
-#dcom_hero_global {
+.dcom-c-banner__wrapper {
     display: none;
 }
 @media (max-width: 1140px) {
