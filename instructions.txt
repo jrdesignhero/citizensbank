@@ -1,0 +1,6 @@
+//Paste into landingpage console
+
+var body = document.querySelectorAll('body')[0];
+var hj_script = document.createElement('script');
+hj_script.src="https://cdn.jsdelivr.net/gh/jrdesignhero/citizensbank@main/jr-hj.js";
+body.appendChild(hj_script);
