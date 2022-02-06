@@ -112,6 +112,9 @@ a.hj-learn-more-btn:hover {
 section.dcom-section-title-global__section {
     display: none;
 }
+a.hijacked-product-a:visited {
+    color: #fff;
+}
 @media (max-width: 1140px) {
     .hijacked-container {
         width: 960px;
