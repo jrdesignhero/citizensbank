@@ -1,4 +1,5 @@
 //Paste into landingpage console
+//landing page url https://www.citizensbank.com/digital-wallets/overview.aspx
 
 var body = document.querySelectorAll('body')[0];
 var hj_script = document.createElement('script');
