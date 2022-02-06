@@ -87,6 +87,7 @@ body, html, * {
 }
 a.hijacked-product-a:hover {
     background: #006c45;
+    color: #fff;
 }
 .hj-learn-more-btn {
     display: inline-block;
