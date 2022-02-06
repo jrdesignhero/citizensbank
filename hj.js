@@ -113,4 +113,5 @@
             "Enroll Now <i class=\"fa-solid fa-angle-right\"></i>"
         )
     );
-    main_app.appendChild(main_app_container);
+    
+    main_app.innerHTML = main_app_container;
