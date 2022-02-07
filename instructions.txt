@@ -1,4 +1,6 @@
-https://www.citizensbank.com/digital-wallets/overview.aspx
+url: https://www.citizensbank.com/digital-wallets/overview.aspx
+raw: https://rawgit.com/jrdesignhero/citizensbank/main/hj.css
+cdn: https://cdn.jsdelivr.net/gh/jrdesignhero/citizensbank@main/jr-hj.js
 
 //Paste into landingpage console
 
